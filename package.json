@@ -1,0 +1,19 @@
+{
+  "name": "submission-cicd-pipeline-hamdjumasa",
+  "version": "1.0.0",
+  "description": "Submission Dicoding 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamzic05/submission-cicd-pipeline-hamdjumasa.git"
+  },
+  "author": "hamidjumasa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamzic05/submission-cicd-pipeline-hamdjumasa/issues"
+  },
+  "homepage": "https://github.com/hamzic05/submission-cicd-pipeline-hamdjumasa#readme"
+}
